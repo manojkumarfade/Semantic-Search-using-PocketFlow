@@ -29,8 +29,5 @@ The system understands the *meaning* of queries, enabling more accurate and huma
 - Knowledge retrieval systems
 - AI-powered internal search tools
 
-## Demo / Code
-Google Colab Notebook: [Paste Colab Link Here]
-
 ## Notes
 This project demonstrates how vector-based search outperforms keyword-based approaches for real-world information retrieval.
